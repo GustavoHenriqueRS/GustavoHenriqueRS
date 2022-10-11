@@ -43,5 +43,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GustavoHenrique23}/count.svg" /></p> 
 <br></div>
   
-
+![snake gif](https://github.com/GustavoHenrique23/GustavoHenrique23/blob/output/github-contribution-grid-snake.svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
