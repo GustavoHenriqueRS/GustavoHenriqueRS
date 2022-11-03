@@ -10,11 +10,14 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GustavoHenrique23&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+<p align="center"> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrique23&layout=compact&langs_count=7&title_color=8257e6&text_color=ffffff&icon_color=8257e6&bg_color=121214&hide_border=true"/>
+</p>
 
 <div align="center">  
 <a href="https://www.instagram.com/gustavoh2003/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
-  
+
 
 ### Main skills:
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
