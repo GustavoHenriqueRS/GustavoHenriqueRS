@@ -3,16 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Henrique;I'm+19+years+old;I+from+Brazil,+Brasilia;I'm+Software+Engineer+Student+at+UnB;Bem+Vindos(a)+:%29)](https://git.io/typing-svg)
 
 
+![GustavoHenrique's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GustavoHenrique23&theme=gotham&hide_border=true&area=true)
 
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=GustavoHenrique23&theme=gotham&hide_border=true&area=true)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GustavoHenrique23&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-<p align="center"> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrique23&layout=compact&langs_count=7&title_color=8257e6&text_color=ffffff&icon_color=8257e6&bg_color=121214&hide_border=true"/>
-</p>
+
 
 <div align="center">  
 <a href="https://www.instagram.com/gustavoh2003/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
