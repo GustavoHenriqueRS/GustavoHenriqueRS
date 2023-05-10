@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Henrique;I'm+19+years+old;I+from+Brazil,+Brasilia;I'm+Software+Engineer+Student+at+UnB;Bem+Vindos(a)+:%29)](https://git.io/typing-svg)
 
 
-![GustavoHenrique's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GustavoHenrique23&theme=gotham&hide_border=true&area=true)
+![GustavoHenrique's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GustavoHenriqueRS&theme=gotham&hide_border=true&area=true)
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GustavoHenrique23&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GustavoHenriqueRS&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
@@ -40,7 +40,7 @@
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GustavoHenrique23}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GustavoHenriqueRS}/count.svg" /></p> 
 <br></div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
