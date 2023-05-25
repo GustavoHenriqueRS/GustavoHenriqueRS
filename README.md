@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Henrique;I'm+19+years+old;I+from+Brazil,+Brasilia;I'm+Software+Engineer+Student+at+UnB;Bem+Vindos(a)+:%29)](https://git.io/typing-svg)
 
 
-![GustavoHenrique's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GustavoHenriqueRS&theme=gotham&hide_border=true&area=true)
+[![Gustavo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoHenriqueRS&theme=react-dark	)](https://github.com/GustavoHenriqueRS/github-readme-activity-graph)
 
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 
 <div align="center">  
-<a href="https://www.instagram.com/gustavoh2003/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/gustavo__hen1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
 
 
